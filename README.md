@@ -36,7 +36,7 @@
 
 - Challenge 1: Mathematricks __ (COMPLETED)
 - Challenge 2: El Teteo
-- Challenge 3: Que onda
+- Challenge 3: Que onda __ (COMPLETED)
 
 
 
