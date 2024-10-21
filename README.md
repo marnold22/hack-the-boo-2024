@@ -28,7 +28,7 @@
 
 ## 5. Forensics
 
-- Challenge 1: Sp00ky Theme
+- Challenge 1: Sp00ky Theme __ (COMPLETED)
 - Challenge 2: The Shortcut Haunting
 - Challenge 3: Forbidden Manuscript
 
