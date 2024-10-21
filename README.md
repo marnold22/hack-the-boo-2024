@@ -5,7 +5,7 @@
 ## 1. Reversing
 
 - Challenge 1: Graverobber
-- Challenge 2: CryptOfTheUndead
+- Challenge 2: CryptOfTheUndead __ (COMPLETED)
 - Challenge 3: SpookyPass
 
 ## 2. Crypto
