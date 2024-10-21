@@ -29,7 +29,7 @@
 ## 5. Forensics
 
 - Challenge 1: Sp00ky Theme __ (COMPLETED)
-- Challenge 2: The Shortcut Haunting
+- Challenge 2: The Shortcut Haunting __ (COMPLETED)
 - Challenge 3: Forbidden Manuscript
 
 ## 6. Pwn
