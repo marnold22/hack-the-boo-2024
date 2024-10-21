@@ -30,7 +30,7 @@
 
 - Challenge 1: Sp00ky Theme __ (COMPLETED)
 - Challenge 2: The Shortcut Haunting __ (COMPLETED)
-- Challenge 3: Forbidden Manuscript
+- Challenge 3: Forbidden Manuscript __ (COMPLETED)
 
 ## 6. Pwn
 
