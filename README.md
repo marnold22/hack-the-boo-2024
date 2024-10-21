@@ -6,7 +6,7 @@
 
 - Challenge 1: Graverobber
 - Challenge 2: CryptOfTheUndead __ (COMPLETED)
-- Challenge 3: SpookyPass
+- Challenge 3: SpookyPass __ (COMPLETED)
 
 ## 2. Crypto
 
